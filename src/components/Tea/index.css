@@ -1,3 +1,9 @@
 .img-tile {
+  background-color: lightgrey;
+  color:#228b5a;
   text-align: center;
+  padding: 1em;
+}
+.img-tile img {
+  width:150px;
 }

@@ -1,5 +1,5 @@
 import Tea from './components/Tea'
-import './app.css'
+import './App.css'
 const App = () => {
   return (
     <article>
